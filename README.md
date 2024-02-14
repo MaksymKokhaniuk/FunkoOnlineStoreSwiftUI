@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Funko Online Store</h1>
-  <h3>The open-source DocSend alternative.</h3>
 </div>
 
 <br/>
@@ -19,6 +18,9 @@ Funko Online Store is a program that allows the user to make online purchases.
 <div align="center">  
   <h1 align="center">Login View</h1>
   <img src="profileDemo.gif" width="300" height="600">
+
+  <h1 align="center">Home View, Product Dateil</h1>
+  <img src="homeDemo.gif" width="300" height="600">
 
   <h1 align="center">Explore View</h1>
   <img src="exploreDemo.gif" width="300" height="600">
@@ -42,7 +44,7 @@ Funko Online Store is a program that allows the user to make online purchases.
   <img src="profileDemo2.gif" width="300" height="600">
 
   <h1 align="center">Profile View: Promo Code, Notifications, Info</h1>
-  <img src="profileDemo6.gif" width="300" height="600"
+  <img src="profileDemo6.gif" width="300" height="600">
 </div>
 
 
@@ -53,6 +55,15 @@ Funko Online Store is a program that allows the user to make online purchases.
 - [MySQL](https://www.mysql.com) – open-source relational database management system (RDBMS)
 - [Postman](https://www.postman.com) - API platform for building and using APIs
 - [JS] - programing language
+
+## Database
+<div align="center"> 
+  <h1 align="center">Profile View: Payment Methods</h1>
+  <img src="profileDemo2.gif" width="300" height="600">
+
+  <h1 align="center">Profile View: Promo Code, Notifications, Info</h1>
+  <img src="profileDemo6.gif" width="300" height="600">
+</div>
 
 
 
