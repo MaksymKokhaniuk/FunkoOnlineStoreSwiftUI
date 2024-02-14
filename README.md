@@ -17,8 +17,8 @@ Funko Online Store is a program that allows the user to make online purchases.
 
 ## Demo 
 <div align="center">  
-  <h1 align="center">Home View, Product Detail</h1>
-  <img src="homeDemo.gif" width="300" height="600">
+  <h1 align="center">Login View</h1>
+  <img src="profileDemo.gif" width="300" height="600">
 
   <h1 align="center">Explore View</h1>
   <img src="exploreDemo.gif" width="300" height="600">
@@ -29,10 +29,19 @@ Funko Online Store is a program that allows the user to make online purchases.
   <h1 align="center">Favorite View</h1>
   <img src="favoriteDemo.gif" width="300" height="600">
 
-  <h1 align="center">Profile View: </h1>
-  <img src="favoriteDemo.gif" width="300" height="600">
+  <h1 align="center">Profile View: My Orders</h1>
+  <img src="profileDemo3.gif" width="300" height="600">
+
+  <h1 align="center">Profile View: My Details</h1>
+  <img src="profileDemo4.gif" width="300" height="600">
+
+  <h1 align="center">Profile View: Delivery Address</h1>
+  <img src="profileDemo5.gif" width="300" height="600">
 
   <h1 align="center">Profile View: Payment Methods</h1>
+  <img src="profileDemo2.gif" width="300" height="600">
+
+  <h1 align="center">Profile View: Promo Code, Notifications, Info</h1>
   <img src="profileDemo2.gif" width="300" height="600">
 </div>
 
