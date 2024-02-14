@@ -9,14 +9,15 @@ Funko Online Store is a program that allows the user to make online purchases.
 
 ## Technologies
 
-- **Swift:** Share your document securely by sending a custom link
-- **Analytics:** Get insights via document tracking and soon page-by-page analytics
-- **Self-hosted, open-source:** Host it yourself and hack on it
+- **Swift** The programming language used in the development of the application, the MVVM design pattern is used
+- **MySQL** used for modeling the database
+- **JS** the programming language in which the backend of the program component was developed
+- **Postman** used for API calling
 
 
 ## Demo 
 <div align="center">  
-  <h1 align="center">Home View</h1>
+  <h1 align="center">Home View, Product Detail, </h1>
   <img src="homeDemo.gif" width="300" height="600">
 
   <h1 align="center">Explore View</h1>
