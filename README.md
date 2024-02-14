@@ -15,7 +15,10 @@ Funko Online Store is a program that allows the user to make online purchases.
 
 
 ## Demo 
-![FunkoApp Welcome GIF](homeDemo.gif)
+<div align="center">  
+  <h1 align="center">Home View</h1>
+  <img src="homeDemo.gif" width="300" height="600">
+</div>
 
 
 ## Tech Stack
