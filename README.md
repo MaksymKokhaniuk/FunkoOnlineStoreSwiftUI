@@ -58,11 +58,21 @@ Funko Online Store is a program that allows the user to make online purchases.
 
 ## Database
 <div align="center"> 
-  <h1 align="center">Profile View: Payment Methods</h1>
+  <h1 align="center">General view of the database</h1>
   <img src="Screenshot 2024-02-15 at 01.50.11.png" width="900" height="600">
 
-  <h1 align="center">Profile View: Promo Code, Notifications, Info</h1>
-  <img src="profileDemo6.gif" width="300" height="600">
+  <h1 align="center">A table in which the data of all registered users is stored</h1>
+  <img src="Screenshot 2024-02-15 at 01.51.19.png" width="900" height="300">
+</div>
+
+## for example - Postman API Calling
+<div align="center"> 
+  
+  <h1 align="center">API Call: login</h1>
+  <img src="Screenshot 2024-02-15 at 01.50.11.png" width="900" height="600">
+
+  <h1 align="center">API Call: product_list</h1>
+  <img src="Screenshot 2024-02-15 at 01.51.19.png" width="900" height="300">
 </div>
 
 
