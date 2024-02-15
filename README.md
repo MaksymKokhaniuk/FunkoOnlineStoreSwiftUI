@@ -69,13 +69,13 @@ Funko Online Store is a program that allows the user to make online purchases.
 <div align="center"> 
   
   <h1 align="center">API Call: login</h1>
-  <img src="Screenshot 2024-02-15 at 01.50.11.png" width="900" height="600">
+  <img src="API_login.png" width="900" height="600">
 
   <h1 align="center">API Call: product_list</h1>
-  <img src="Screenshot 2024-02-15 at 01.51.19.png" width="900" height="300">
+  <img src="API_product_list.png" width="900" height="600">
 </div>
 
-
+## Thank you for watching!
 
 ## You can see me on [linkedin](https://www.linkedin.com/in/maksym-kokhaniuk-1a0872287/)
 
